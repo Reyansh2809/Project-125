@@ -1,0 +1,31 @@
+.m_heading
+  {
+    font-size: 23px;
+    background-color: blue;
+    color:gold;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+  .m_note
+  {
+    font-size: 15px;
+    color: gold;
+  }
+  .m_copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color:grey;
+    line-height: 3;
+    text-align: center;
+ }
+  canvas 
+  {
+      background-color: hotpink;
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:10px 10px 10px grey;
+  }
+ 
